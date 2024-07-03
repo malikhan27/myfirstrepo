@@ -9,7 +9,7 @@ body{background-color: lightcyan;}
     padding: 10px 10px;
     text-decoration: none;
      border-radius: 4px; }
-.select1{width:100%;padding: 10px 12px; margin: 8px; box-sizing: border-box; border-radius: 10px;}
+.select1{width:100%;padding: 10px 12px; margin: 8px; box-sizing: border-box; border-radius: 10px; }
 .select2{width:100%;padding: 10px 12px; margin: 8px; box-sizing: border-box; border-radius: 10px; }
 .table2{width: 100% ;}
 .input1{width:100%;padding: 10px 12px; margin: 8px; box-sizing: border-box; border-radius: 10px;} 
